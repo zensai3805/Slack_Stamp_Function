@@ -1,0 +1,2 @@
+# Slack_Stamp_Function
+slackでGoogle検索を利用したスタンプ機能を実装するGASコードです。
